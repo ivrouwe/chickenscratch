@@ -1,6 +1,8 @@
 # chickenscratch
 
-Creators: [Ivan Vrouwe (ivrouwe)](https://github.com/ivrouwe) and [Koan Stalwick (KoanStalwick)](https://github.com/KoanStalwick)
+Created by
+* [Ivan Vrouwe (ivrouwe)](https://github.com/ivrouwe)  
+* [Koan Stalwick (KoanStalwick)](https://github.com/KoanStalwick)
 
 Welcome to our repo! We've been hired to design a new website for Chicken Scratch, [a one-of-a-kind gift shop in Edmonton, Alberta](https://www.instagram.com/chickenscratchyeg/).  
 
