@@ -1,5 +1,5 @@
 # chickenscratch
-[Image of two of the staff members at Chicken Scratch](http://addictedtocoding.com/assets/images/projects/chickenscratch/chickenscratchstaff.jpg)  
+![Image of two of the staff members at Chicken Scratch](http://addictedtocoding.com/assets/images/projects/chickenscratch/chickenscratchstaff.jpg)  
 
 ![Image of Chicken Scratch's storefront](http://addictedtocoding.com/assets/images/projects/chickenscratch/chickenscratchstorefront.jpg)!![Image of some books for sale inside Chicken Scratch](http://addictedtocoding.com/assets/images/projects/chickenscratch/chickenscratchbooks.jpg)  
 
