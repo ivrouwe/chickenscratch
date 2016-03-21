@@ -7,5 +7,5 @@ Welcome to our repo! We've been hired to design a new website for Chicken Scratc
 ---
 
 Created by
-* [Ivan Vrouwe (ivrouwe)](https://github.com/ivrouwe)  
-* [Koan Stalwick (KoanStalwick)](https://github.com/KoanStalwick)
+[Ivan Vrouwe (ivrouwe)](https://github.com/ivrouwe)  
+[Koan Stalwick (KoanStalwick)](https://github.com/KoanStalwick)
